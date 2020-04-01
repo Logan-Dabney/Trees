@@ -147,9 +147,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="AVL.cpp" />
     <ClCompile Include="BST.cpp" />
+    <ClCompile Include="RBT.cpp" />
     <ClCompile Include="SkipList.cpp" />
-    <ClCompile Include="Trees.cpp" />
+    <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="AVL.h" />
